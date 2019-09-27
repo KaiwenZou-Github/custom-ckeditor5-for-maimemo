@@ -11,3 +11,5 @@
 放在里新客服的library/ckeditorWithImage里
 
 现在的build里是打包好的ckeditor.js
+
+可以在sample里面查看示例
